@@ -1,7 +1,7 @@
 /*******************************\
  * CMPE 382: OPERATING SYSTEMS *
- * PROJECT: 1				   *
- * AUTHOR: Efe Berk ERGULEC	   *
+ * PROJECT: 1		       *
+ * AUTHOR: Efe Berk ERGULEC    *
 \*******************************/ 
 
 #include <stdio.h>
