@@ -1,3 +1,3 @@
 # C Programs
 
-This repository keeps my C Programming projects.
+Repository that keeps my C Programming projects which I wrote during my undergraduate studies.
